@@ -2,6 +2,7 @@
 
 This repository contains the official implementation of our paper:  
 **"Topic Modeling for Short Texts via Optimal Transport-Based Clustering"**, accepted at **ACL 2025**.
+[Conference Website (ACL 2025)](https://2025.aclweb.org/)
 
 ## Overview
 
