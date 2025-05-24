@@ -1,0 +1,5 @@
+bash bash/NewMethod/subTableECR/NewMethod_Biomedical_top100_cluster30_ECR.sh
+bash bash/NewMethod/subTableECR/NewMethod_GoogleNews_top100_cluster30_ECR.sh
+bash bash/NewMethod/subTableECR/NewMethod_SearchSnippets_top100_cluster30_ECR.sh
+bash bash/NewMethod/subTableECR/NewMethod_StackOverflow_top100_cluster30_ECR.sh
+

@@ -1,0 +1,5 @@
+bash bash/NewMethod/subTableTopic/NewMethod_Biomedical_checktop_cluster30.sh
+bash bash/NewMethod/subTableTopic/NewMethod_GoogleNews_checktop_cluster30.sh
+bash bash/NewMethod/subTableTopic/NewMethod_SearchSnippets_checktop_cluster30.sh
+bash bash/NewMethod/subTableTopic/NewMethod_StackOverflow_checktop_cluster30.sh
+

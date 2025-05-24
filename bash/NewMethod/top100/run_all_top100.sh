@@ -1,0 +1,26 @@
+#!/bin/bash
+bash bash/NewMethod/top100/NewMethod_Biomedical_top100_cluster10.sh
+bash bash/NewMethod/top100/NewMethod_Biomedical_top100_cluster20.sh
+bash bash/NewMethod/top100/NewMethod_Biomedical_top100_cluster30.sh
+bash bash/NewMethod/top100/NewMethod_Biomedical_top100_cluster40.sh
+bash bash/NewMethod/top100/NewMethod_Biomedical_top100_cluster50.sh
+
+bash bash/NewMethod/top100/NewMethod_GoogleNews_top100_cluster10.sh
+bash bash/NewMethod/top100/NewMethod_GoogleNews_top100_cluster20.sh
+bash bash/NewMethod/top100/NewMethod_GoogleNews_top100_cluster30.sh
+bash bash/NewMethod/top100/NewMethod_GoogleNews_top100_cluster40.sh
+bash bash/NewMethod/top100/NewMethod_GoogleNews_top100_cluster50.sh
+
+bash bash/NewMethod/top100/NewMethod_SearchSnippets_top100_cluster10.sh
+bash bash/NewMethod/top100/NewMethod_SearchSnippets_top100_cluster20.sh
+bash bash/NewMethod/top100/NewMethod_SearchSnippets_top100_cluster30.sh
+bash bash/NewMethod/top100/NewMethod_SearchSnippets_top100_cluster40.sh
+bash bash/NewMethod/top100/NewMethod_SearchSnippets_top100_cluster50.sh
+
+bash bash/NewMethod/top100/NewMethod_StackOverflow_top100_cluster10.sh
+bash bash/NewMethod/top100/NewMethod_StackOverflow_top100_cluster20.sh
+bash bash/NewMethod/top100/NewMethod_StackOverflow_top100_cluster30.sh
+bash bash/NewMethod/top100/NewMethod_StackOverflow_top100_cluster40.sh
+bash bash/NewMethod/top100/NewMethod_StackOverflow_top100_cluster50.sh
+
+

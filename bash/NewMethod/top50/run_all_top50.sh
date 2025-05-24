@@ -1,0 +1,26 @@
+#!/bin/bash
+bash bash/NewMethod/top50/NewMethod_Biomedical_top50_cluster10.sh
+bash bash/NewMethod/top50/NewMethod_Biomedical_top50_cluster20.sh
+bash bash/NewMethod/top50/NewMethod_Biomedical_top50_cluster30.sh
+bash bash/NewMethod/top50/NewMethod_Biomedical_top50_cluster40.sh
+bash bash/NewMethod/top50/NewMethod_Biomedical_top50_cluster50.sh
+
+bash bash/NewMethod/top50/NewMethod_GoogleNews_top50_cluster10.sh
+bash bash/NewMethod/top50/NewMethod_GoogleNews_top50_cluster20.sh
+bash bash/NewMethod/top50/NewMethod_GoogleNews_top50_cluster30.sh
+bash bash/NewMethod/top50/NewMethod_GoogleNews_top50_cluster40.sh
+bash bash/NewMethod/top50/NewMethod_GoogleNews_top50_cluster50.sh
+
+bash bash/NewMethod/top50/NewMethod_SearchSnippets_top50_cluster10.sh
+bash bash/NewMethod/top50/NewMethod_SearchSnippets_top50_cluster20.sh
+bash bash/NewMethod/top50/NewMethod_SearchSnippets_top50_cluster30.sh
+bash bash/NewMethod/top50/NewMethod_SearchSnippets_top50_cluster40.sh
+bash bash/NewMethod/top50/NewMethod_SearchSnippets_top50_cluster50.sh
+
+bash bash/NewMethod/top50/NewMethod_StackOverflow_top50_cluster10.sh
+bash bash/NewMethod/top50/NewMethod_StackOverflow_top50_cluster20.sh
+bash bash/NewMethod/top50/NewMethod_StackOverflow_top50_cluster30.sh
+bash bash/NewMethod/top50/NewMethod_StackOverflow_top50_cluster40.sh
+bash bash/NewMethod/top50/NewMethod_StackOverflow_top50_cluster50.sh
+
+

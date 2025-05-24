@@ -1,0 +1,5 @@
+bash bash/NewMethod/subTableCluster/NewMethod_Biomedical_top100_checkcluster.sh
+bash bash/NewMethod/subTableCluster/NewMethod_GoogleNews_top100_checkcluster.sh
+bash bash/NewMethod/subTableCluster/NewMethod_SearchSnippets_top100_checkcluster.sh
+bash bash/NewMethod/subTableCluster/NewMethod_StackOverflow_top100_checkcluster.sh
+
