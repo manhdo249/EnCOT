@@ -1,7 +1,7 @@
 # EnCOT: Enhancing Global Clustering with Optimal Transport in Topic Modeling
 
 This repository contains the official implementation of our paper:  
-**"Topic Modeling for Short Texts via Optimal Transport-Based Clustering"**, accepted at [ACL 2025](https://2025.aclweb.org/).
+**"Topic Modeling for Short Texts via Optimal Transport-Based Clustering"**, accepted at [ACL 2025 (Findings)](https://2025.aclweb.org/).
 
 ## Overview
 
